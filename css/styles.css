@@ -32,3 +32,15 @@ img {
   max-height: 5em;
 
 }
+
+.hedgehog {
+
+  max-height: 20em;
+
+}
+
+article {
+
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
