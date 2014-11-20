@@ -1,8 +1,28 @@
 body {
 	text-align: center;
 	color: #3FBAB9;
+	font-family: 'Titillium Web', sans-serif;
 }
 
 p {
+  font-family: 'Abel', sans-serif;
+  font-size: 1.2em;
+  color: #474747;
+}
 
+nav a {
+  margin: 1em .5em 2em .5em;
+  background-size: 2em 2em;
+  padding: .6em;
+}
+
+nav a:hover {
+  border: #646464 dotted .18em;
+  border-radius: 2em;
+}
+
+a {
+  color: #3FBAB9;
+  text-decoration: none;
+  text-transform: uppercase;
 }
