@@ -26,3 +26,9 @@ a {
   text-decoration: none;
   text-transform: uppercase;
 }
+
+img {
+
+  max-height: 5em;
+
+}

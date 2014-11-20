@@ -1,0 +1,1 @@
+$('#gallery5').rebox({ selector: 'a' });
